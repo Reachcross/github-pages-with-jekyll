@@ -1,1 +1,4 @@
-This is Reachcross's first blog writing post 
+---
+title: "my-first-blog-post"
+date: 2022-02-08
+---
